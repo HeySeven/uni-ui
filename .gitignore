@@ -4,3 +4,4 @@ unpackage/
 lib/
 .DS_Store
 dist/
+temp/
