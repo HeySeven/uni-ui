@@ -13,9 +13,16 @@
 		"build:lib": "node build/build-lib.js lib",
 		"build:npm": "node build/build-lib.js npm"
 	},
-	"files":["lib","README.MD","LICENSE","package.json"],
+	"files": [
+		"lib",
+		"README.MD",
+		"LICENSE",
+		"package.json"
+	],
 	"dependencies": {},
-	"devDependencies": {},
+	"devDependencies": {
+		"fs-extra": "^9.0.0"
+	},
 	"browserslist": [
 		"Android >= 4",
 		"ios >= 8"

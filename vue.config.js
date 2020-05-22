@@ -1,6 +1,6 @@
 
-// const path = require('path')
-// const CopyPlugin = require('./plugin')
+const path = require('path')
+const CopyPlugin = require('./plugin')
 
 module.exports = {
     configureWebpack: {
