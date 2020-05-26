@@ -26,8 +26,5 @@
 	"browserslist": [
 		"Android >= 4",
 		"ios >= 8"
-	],
-	"uni-app": {
-		"scripts": {}
-	}
+	]
 }
